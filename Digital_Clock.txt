@@ -1,3 +1,5 @@
+//digital clock verilog code
+
 `timescale 1ns / 1ps
 
 module top(input clk, Resetn, E, output [7:4] A, [3:0] AN, [6:0] dis);
